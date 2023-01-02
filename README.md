@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @hatethecoffee
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+hatethecoffee/hatethecoffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Hi,this is my first day to use Github.This is the first year I being a developer.I trying to learn english well and become a good developer.This year I want to 
+buy myself a piano.
